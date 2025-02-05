@@ -27,16 +27,13 @@ Welcome to the classic Snake Game built using **HTML**, **CSS**, and **JavaScrip
 ## Installation 🛠️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/jsu622jejej/snake1997.git
    ```
 2. Open the `index.html` file in your browser.
 
 ## Contributing 🤝
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## License 📄
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this introduction to better fit your project and add any additional sections you think are necessary. Happy coding! 🚀
+## No License 📄
+Happy Coding 🚀
+</>Developed by sithum
